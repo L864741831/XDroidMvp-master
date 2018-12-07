@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\528492e600ba799af818a2646fce6748dd9db0a7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7038c6d960d3fe26fd41bc509f256c9692d886ce">
+        <dex dex="G:\XDroidMvp-master\app\build\intermediates\pre-dexed\debug\classes_a81163874f432e16a03e927ddbe083d0a9c86251.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\io.reactivex.rxjava2\rxjava\2.2.0\2c622e8f1cab8d5871d32bb2023af515216056d8\rxjava-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2c622e8f1cab8d5871d32bb2023af515216056d8">
+        <dex dex="G:\XDroidMvp-master\app\build\intermediates\pre-dexed\debug\rxjava-2.2.0_f10e687147b56c819c08fbe9ab481cb4535af847.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\1d09c7ceedf8c798ee24f1c0a5b426f4c21157a0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e20f3c5e0e1bdbcf0edad8b16771497b36f68875">
+        <dex dex="G:\XDroidMvp-master\app\build\intermediates\pre-dexed\debug\classes_0e50dca5b3af9358f66a3a2b19e6c8e9611c6837.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\fe843a6deee5903d753a543626da8d2633696fd5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88c68e5ef7c5ace393d014c9ec5fe736b1ca55cf">
+        <dex dex="G:\XDroidMvp-master\app\build\intermediates\pre-dexed\debug\classes_797e42ed331645969b47c140a6086a616d8e839e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\0562e1475700edd3287a746a4280282afe365106\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="110d9df7ab918bd5a815de35d4ebbab8bbe88ac1">
+        <dex dex="G:\XDroidMvp-master\app\build\intermediates\pre-dexed\debug\classes_2433d7c9da93717571389fa2a1c68dc525456f29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\26397a66d6fe843c65f0bfe89d9e0d3482c1dbe9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f34b3abccadc156cd3a75fde0afc55754e383986">
+        <dex dex="G:\XDroidMvp-master\app\build\intermediates\pre-dexed\debug\classes_47dd5cac796438549970f8ba4d4e87c8bda9c9b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\78f935583fe5676b51272d0f9a2f82532c1346cf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cd43d71aaa1a0cffd99bd105acd1fe0454ace4dd">
+        <dex dex="G:\XDroidMvp-master\app\build\intermediates\pre-dexed\debug\classes_19e7461f70079053d37849cfef9e88fa169f30c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.1\f7be08ec23c21485b9b5a1cf1654c2ec8c58168d\jsr305-3.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f7be08ec23c21485b9b5a1cf1654c2ec8c58168d">
+        <dex dex="G:\XDroidMvp-master\app\build\intermediates\pre-dexed\debug\jsr305-3.0.1_b629f06a974d8a52776eaf08b3d7e7de95a0263a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\annotations\4.8.0\c4c9e79eb2bfeb9059fce55020c6b237402285f6\annotations-4.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4c9e79eb2bfeb9059fce55020c6b237402285f6">
+        <dex dex="G:\XDroidMvp-master\app\build\intermediates\pre-dexed\debug\annotations-4.8.0_991d1870f1dd0815519b2bde246cfac51b747696.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\XDroidMvp-master\mvp\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="611303aaf9bf8c4f3e57a3d261c77ecb90f1bea8">
+        <dex dex="G:\XDroidMvp-master\app\build\intermediates\pre-dexed\debug\classes_34ef99698dcdf74d6eb71c91196e0df02c8bd1f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\c66c458a571be58bb754190e8a7b1898d52fcf7b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3a64f14f460e307f5dfce75e9804e20077d3e6e8">
+        <dex dex="G:\XDroidMvp-master\app\build\intermediates\pre-dexed\debug\classes_a3101bee37c8db3a6a6d370248f75594cff720e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\disklrucache\4.8.0\a7448551cb3edd61bcf3d1b1136b670e630441cf\disklrucache-4.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a7448551cb3edd61bcf3d1b1136b670e630441cf">
+        <dex dex="G:\XDroidMvp-master\app\build\intermediates\pre-dexed\debug\disklrucache-4.8.0_ef9f47faccf8f99d8ff8906bd18b8339ff89788e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\f842b27d6f6e5f2a24b1b06c75afcc7c5eef83ff\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ae6d33f37143b08cd8c477c9e348d61ef7ed7eba">
+        <dex dex="G:\XDroidMvp-master\app\build\intermediates\pre-dexed\debug\classes_9ea4b4f9dfb4c298edb2fc51b1844c9f05690001.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.reactivestreams\reactive-streams\1.0.2\323964c36556eb0e6209f65c1cef72b53b461ab8\reactive-streams-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="323964c36556eb0e6209f65c1cef72b53b461ab8">
+        <dex dex="G:\XDroidMvp-master\app\build\intermediates\pre-dexed\debug\reactive-streams-1.0.2_0eb1a52385dfb185d3f81aa2e3c268d91088bf47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\26a3a39db9fd3c6c0c570962ceddb0b5cea3c8bc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="221de83c08ed1502286513b4d472d256341e8839">
+        <dex dex="G:\XDroidMvp-master\app\build\intermediates\pre-dexed\debug\classes_019bd640efa18a617f4a6268c99f92a502c7c729.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\02980da935c573d440d45fa6de7f8a620b1e710c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a1589af4546e0299f3e0c77de3215ecfd3a0e19d">
+        <dex dex="G:\XDroidMvp-master\app\build\intermediates\pre-dexed\debug\classes_dc2427b5e61771583e0d59eef05ebc916a6ac2c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\ec10ee1c690b9c2b9e8749c03b26de951f114937\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9527f5ac46ee4f50c31bd4703c61a6cac180eb4e">
+        <dex dex="G:\XDroidMvp-master\app\build\intermediates\pre-dexed\debug\classes_f3f6d7af6b51bd46f2b7e6fccf54390a30362193.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="G:\XDroidMvp-master\app\build\intermediates\pre-dexed\debug\library-2.4.0_dd460f45d27a359687729c3c169358b1eda3100b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\bf347c8db6013277f8798c3b73d3eb2ae1a906be\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f9d6c700c35a4ecc8acdbb95592033ed35ebf3f2">
+        <dex dex="G:\XDroidMvp-master\app\build\intermediates\pre-dexed\debug\classes_5f5746b8a6ce483f5d697cdc1e7b742a97403c2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.trello.rxlifecycle2\rxlifecycle\2.0.1\6a8613d3be37408630effe790c4945543633288\rxlifecycle-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="06a8613d3be37408630effe790c4945543633288">
+        <dex dex="G:\XDroidMvp-master\app\build\intermediates\pre-dexed\debug\rxlifecycle-2.0.1_e40ac6bb629777b4d16adb614cbacf5b5045e759.jar" />
+    </item>
+
+</items>

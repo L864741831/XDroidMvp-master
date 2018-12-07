@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "G:\\XDroidMvp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "C:\\Android\\.android\\build-cache\\f842b27d6f6e5f2a24b1b06c75afcc7c5eef83ff\\output\\res\\drawable-v21\\design_password_eye.xml"
+    },
+    {
+        "merged": "G:\\XDroidMvp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Android\\.android\\build-cache\\86e9c688a130572591d2cf7cdb97759e263a2533\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "G:\\XDroidMvp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Android\\.android\\build-cache\\f842b27d6f6e5f2a24b1b06c75afcc7c5eef83ff\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "G:\\XDroidMvp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\item_part_touch.xml",
+        "source": "G:\\XDroidMvp-master\\app\\src\\main\\res\\drawable-v21\\item_part_touch.xml"
+    },
+    {
+        "merged": "G:\\XDroidMvp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Android\\.android\\build-cache\\86e9c688a130572591d2cf7cdb97759e263a2533\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "G:\\XDroidMvp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Android\\.android\\build-cache\\f842b27d6f6e5f2a24b1b06c75afcc7c5eef83ff\\output\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "G:\\XDroidMvp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Android\\.android\\build-cache\\f842b27d6f6e5f2a24b1b06c75afcc7c5eef83ff\\output\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "G:\\XDroidMvp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Android\\.android\\build-cache\\45571a1d140ca27c669feeb88bdcb8e88b691ee5\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "G:\\XDroidMvp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Android\\.android\\build-cache\\86e9c688a130572591d2cf7cdb97759e263a2533\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    }
+]

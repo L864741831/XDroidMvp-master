@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "G:\\XDroidMvp-master\\mvp\\build\\intermediates\\res\\merged\\release\\color-v23\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Android\\.android\\build-cache\\86e9c688a130572591d2cf7cdb97759e263a2533\\output\\res\\color-v23\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "G:\\XDroidMvp-master\\mvp\\build\\intermediates\\res\\merged\\release\\color-v23\\abc_color_highlight_material.xml",
+        "source": "C:\\Android\\.android\\build-cache\\86e9c688a130572591d2cf7cdb97759e263a2533\\output\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "G:\\XDroidMvp-master\\mvp\\build\\intermediates\\res\\merged\\release\\color-v23\\abc_tint_edittext.xml",
+        "source": "C:\\Android\\.android\\build-cache\\86e9c688a130572591d2cf7cdb97759e263a2533\\output\\res\\color-v23\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "G:\\XDroidMvp-master\\mvp\\build\\intermediates\\res\\merged\\release\\color-v23\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Android\\.android\\build-cache\\86e9c688a130572591d2cf7cdb97759e263a2533\\output\\res\\color-v23\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "G:\\XDroidMvp-master\\mvp\\build\\intermediates\\res\\merged\\release\\color-v23\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Android\\.android\\build-cache\\86e9c688a130572591d2cf7cdb97759e263a2533\\output\\res\\color-v23\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "G:\\XDroidMvp-master\\mvp\\build\\intermediates\\res\\merged\\release\\color-v23\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Android\\.android\\build-cache\\86e9c688a130572591d2cf7cdb97759e263a2533\\output\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "G:\\XDroidMvp-master\\mvp\\build\\intermediates\\res\\merged\\release\\color-v23\\design_tint_password_toggle.xml",
+        "source": "C:\\Android\\.android\\build-cache\\f842b27d6f6e5f2a24b1b06c75afcc7c5eef83ff\\output\\res\\color-v23\\design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "G:\\XDroidMvp-master\\mvp\\build\\intermediates\\res\\merged\\release\\color-v23\\abc_tint_switch_track.xml",
+        "source": "C:\\Android\\.android\\build-cache\\86e9c688a130572591d2cf7cdb97759e263a2533\\output\\res\\color-v23\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "G:\\XDroidMvp-master\\mvp\\build\\intermediates\\res\\merged\\release\\color-v23\\abc_tint_spinner.xml",
+        "source": "C:\\Android\\.android\\build-cache\\86e9c688a130572591d2cf7cdb97759e263a2533\\output\\res\\color-v23\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "G:\\XDroidMvp-master\\mvp\\build\\intermediates\\res\\merged\\release\\color-v23\\abc_tint_default.xml",
+        "source": "C:\\Android\\.android\\build-cache\\86e9c688a130572591d2cf7cdb97759e263a2533\\output\\res\\color-v23\\abc_tint_default.xml"
+    }
+]

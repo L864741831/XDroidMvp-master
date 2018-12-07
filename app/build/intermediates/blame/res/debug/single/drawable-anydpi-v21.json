@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "G:\\XDroidMvp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_share_white_24dp.xml",
+        "source": "G:\\XDroidMvp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_share_white_24dp.xml"
+    },
+    {
+        "merged": "G:\\XDroidMvp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_keyboard_arrow_right_green_24dp.xml",
+        "source": "G:\\XDroidMvp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_keyboard_arrow_right_green_24dp.xml"
+    },
+    {
+        "merged": "G:\\XDroidMvp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_arrow_white_24dp.xml",
+        "source": "G:\\XDroidMvp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_arrow_white_24dp.xml"
+    },
+    {
+        "merged": "G:\\XDroidMvp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
+        "source": "C:\\Android\\.android\\build-cache\\f842b27d6f6e5f2a24b1b06c75afcc7c5eef83ff\\output\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "G:\\XDroidMvp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_person_black_24dp.xml",
+        "source": "G:\\XDroidMvp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_person_black_24dp.xml"
+    },
+    {
+        "merged": "G:\\XDroidMvp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_save_white_24dp.xml",
+        "source": "G:\\XDroidMvp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_save_white_24dp.xml"
+    },
+    {
+        "merged": "G:\\XDroidMvp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
+        "source": "C:\\Android\\.android\\build-cache\\f842b27d6f6e5f2a24b1b06c75afcc7c5eef83ff\\output\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
+    }
+]

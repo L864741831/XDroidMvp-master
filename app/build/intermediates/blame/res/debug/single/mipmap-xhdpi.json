@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "G:\\XDroidMvp-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_error.png",
+        "source": "G:\\XDroidMvp-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_error.png"
+    },
+    {
+        "merged": "G:\\XDroidMvp-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "G:\\XDroidMvp-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\XDroidMvp-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\xdroid_logo_128.png",
+        "source": "G:\\XDroidMvp-master\\app\\src\\main\\res\\mipmap-xhdpi\\xdroid_logo_128.png"
+    }
+]
